@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "appliance_name": "1/2 HP Basement Sump Pump",
+    "slug": "12-hp-basement-sump-pump-wattage-runtime-calculator",
+    "title": "1/2 HP Basement Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (800W), starting surge watts (2100W), and battery backup runtime for a 1/2 HP Basement Sump Pump. Find the right LiFePO4 power station size.",
+    "category": "Emergency Home Backup",
+    "running_watts": 800,
+    "surge_watts": 2100,
+    "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "CPAP Machine with Heated Humidifier",
+    "slug": "cpap-machine-with-heated-humidifier-wattage-runtime-calculator",
+    "title": "CPAP Machine with Heated Humidifier Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (65W), starting surge watts (90W), and battery backup runtime for a CPAP Machine with Heated Humidifier. Find the right LiFePO4 power station size.",
+    "category": "Medical & Camping",
+    "running_watts": 65,
+    "surge_watts": 90,
+    "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "7 Cu Ft Chest Freezer",
+    "slug": "7-cu-ft-chest-freezer-wattage-runtime-calculator",
+    "title": "7 Cu Ft Chest Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (90W), starting surge watts (600W), and battery backup runtime for a 7 Cu Ft Chest Freezer. Find the right LiFePO4 power station size.",
+    "category": "Food Preservation & Outage",
+    "running_watts": 90,
+    "surge_watts": 600,
+    "date": "2026-10-22"
+  }
+]
