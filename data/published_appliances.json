@@ -28,5 +28,35 @@
     "running_watts": 90,
     "surge_watts": 600,
     "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "Full-Size 20 Cu Ft Kitchen Refrigerator",
+    "slug": "full-size-20-cu-ft-kitchen-refrigerator-wattage-runtime-calculator",
+    "title": "Full-Size 20 Cu Ft Kitchen Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (180W), starting surge watts (1200W), and battery backup runtime for a Full-Size 20 Cu Ft Kitchen Refrigerator. Find the right LiFePO4 power station size.",
+    "category": "Home Kitchen Backup",
+    "running_watts": 180,
+    "surge_watts": 1200,
+    "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "Starlink Standard Gen 3 Satellite Dish",
+    "slug": "starlink-standard-gen-3-satellite-dish-wattage-runtime-calculator",
+    "title": "Starlink Standard Gen 3 Satellite Dish Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (75W), starting surge watts (110W), and battery backup runtime for a Starlink Standard Gen 3 Satellite Dish. Find the right LiFePO4 power station size.",
+    "category": "Off-Grid & RV Internet",
+    "running_watts": 75,
+    "surge_watts": 110,
+    "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "5000 BTU Window Air Conditioner",
+    "slug": "5000-btu-window-air-conditioner-wattage-runtime-calculator",
+    "title": "5000 BTU Window Air Conditioner Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (500W), starting surge watts (1500W), and battery backup runtime for a 5000 BTU Window Air Conditioner. Find the right LiFePO4 power station size.",
+    "category": "Cooling & RV Climate",
+    "running_watts": 500,
+    "surge_watts": 1500,
+    "date": "2026-10-22"
   }
 ]
