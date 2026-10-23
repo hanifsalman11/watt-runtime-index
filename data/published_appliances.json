@@ -88,5 +88,35 @@
     "running_watts": 400,
     "surge_watts": 1100,
     "date": "2026-10-22"
+  },
+  {
+    "appliance_name": "1000W Countertop Microwave Oven",
+    "slug": "1000w-countertop-microwave-oven-wattage-runtime-calculator",
+    "title": "1000W Countertop Microwave Oven Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (1200W), starting surge watts (1800W), and battery backup runtime for a 1000W Countertop Microwave Oven. Find the right LiFePO4 power station size.",
+    "category": "Kitchen & Camper Cooking",
+    "running_watts": 1200,
+    "surge_watts": 1800,
+    "date": "2026-10-23"
+  },
+  {
+    "appliance_name": "High-End Gaming PC with RTX GPU",
+    "slug": "high-end-gaming-pc-with-rtx-gpu-wattage-runtime-calculator",
+    "title": "High-End Gaming PC with RTX GPU Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (450W), starting surge watts (750W), and battery backup runtime for a High-End Gaming PC with RTX GPU. Find the right LiFePO4 power station size.",
+    "category": "Workstation & Electronics",
+    "running_watts": 450,
+    "surge_watts": 750,
+    "date": "2026-10-23"
+  },
+  {
+    "appliance_name": "1/2 HP Deep Well Submersible Water Pump",
+    "slug": "12-hp-deep-well-submersible-water-pump-wattage-runtime-calculator",
+    "title": "1/2 HP Deep Well Submersible Water Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (1000W), starting surge watts (2800W), and battery backup runtime for a 1/2 HP Deep Well Submersible Water Pump. Find the right LiFePO4 power station size.",
+    "category": "Off-Grid Water Supply",
+    "running_watts": 1000,
+    "surge_watts": 2800,
+    "date": "2026-10-23"
   }
 ]
