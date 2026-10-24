@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Slow Cooker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Slow Cooker. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/refrigerator-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/refrigerator-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Refrigerator. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Sump Pump. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Portable Baby Bottle Warmer & Sterilizer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/full-size-20-cu-ft-kitchen-refrigerator-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/full-size-20-cu-ft-kitchen-refrigerator-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (180W), starting surge watts (1200W), and battery backup runtime for a Full-Size 20 Cu Ft Kitchen Refrigerator. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>7 Cu Ft Chest Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/7-cu-ft-chest-freezer-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/7-cu-ft-chest-freezer-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (90W), starting surge watts (600W), and battery backup runtime for a 7 Cu Ft Chest Freezer. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>CPAP Machine with Heated Humidifier Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/cpap-machine-with-heated-humidifier-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/cpap-machine-with-heated-humidifier-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (65W), starting surge watts (90W), and battery backup runtime for a CPAP Machine with Heated Humidifier. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>1/2 HP Basement Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/12-hp-basement-sump-pump-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/12-hp-basement-sump-pump-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (800W), starting surge watts (2100W), and battery backup runtime for a 1/2 HP Basement Sump Pump. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

@@ -298,5 +298,35 @@
     "running_watts": 500,
     "surge_watts": 550,
     "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Sump Pump",
+    "slug": "sump-pump-wattage-runtime-calculator",
+    "title": "Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Sump Pump. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Refrigerator",
+    "slug": "refrigerator-wattage-runtime-calculator",
+    "title": "Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Refrigerator. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Slow Cooker",
+    "slug": "slow-cooker-wattage-runtime-calculator",
+    "title": "Slow Cooker Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Slow Cooker. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-24"
   }
 ]
