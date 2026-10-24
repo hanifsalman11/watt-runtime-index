@@ -238,5 +238,35 @@
     "running_watts": 160,
     "surge_watts": 220,
     "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Portable Evaporative Swamp Cooler",
+    "slug": "portable-evaporative-swamp-cooler-wattage-runtime-calculator",
+    "title": "Portable Evaporative Swamp Cooler Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (220W), starting surge watts (650W), and battery backup runtime for a Portable Evaporative Swamp Cooler. Find the right LiFePO4 power station size.",
+    "category": "Off-Grid Cooling",
+    "running_watts": 220,
+    "surge_watts": 650,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Electric Blanket (Queen Size Dual Zone)",
+    "slug": "electric-blanket-queen-size-dual-zone-wattage-runtime-calculator",
+    "title": "Electric Blanket (Queen Size Dual Zone) Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (160W), starting surge watts (160W), and battery backup runtime for a Electric Blanket (Queen Size Dual Zone). Find the right LiFePO4 power station size.",
+    "category": "Winter Camping & Sleep",
+    "running_watts": 160,
+    "surge_watts": 160,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "1/4 HP Sewage Ejector Pump",
+    "slug": "14-hp-sewage-ejector-pump-wattage-runtime-calculator",
+    "title": "1/4 HP Sewage Ejector Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (650W), starting surge watts (1750W), and battery backup runtime for a 1/4 HP Sewage Ejector Pump. Find the right LiFePO4 power station size.",
+    "category": "Basement Plumbing",
+    "running_watts": 650,
+    "surge_watts": 1750,
+    "date": "2026-10-24"
   }
 ]
