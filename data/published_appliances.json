@@ -268,5 +268,35 @@
     "running_watts": 650,
     "surge_watts": 1750,
     "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Commercial Food Truck Panini Press",
+    "slug": "commercial-food-truck-panini-press-wattage-runtime-calculator",
+    "title": "Commercial Food Truck Panini Press Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (1650W), starting surge watts (1650W), and battery backup runtime for a Commercial Food Truck Panini Press. Find the right LiFePO4 power station size.",
+    "category": "Mobile Catering",
+    "running_watts": 1650,
+    "surge_watts": 1650,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Home NAS Server & Wi-Fi 7 Mesh Router",
+    "slug": "home-nas-server-wi-fi-7-mesh-router-wattage-runtime-calculator",
+    "title": "Home NAS Server & Wi-Fi 7 Mesh Router Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (55W), starting surge watts (95W), and battery backup runtime for a Home NAS Server & Wi-Fi 7 Mesh Router. Find the right LiFePO4 power station size.",
+    "category": "IT & Home Lab",
+    "running_watts": 55,
+    "surge_watts": 95,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Portable Baby Bottle Warmer & Sterilizer",
+    "slug": "portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator",
+    "title": "Portable Baby Bottle Warmer & Sterilizer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (500W), starting surge watts (550W), and battery backup runtime for a Portable Baby Bottle Warmer & Sterilizer. Find the right LiFePO4 power station size.",
+    "category": "Travel & Family",
+    "running_watts": 500,
+    "surge_watts": 550,
+    "date": "2026-10-24"
   }
 ]
