@@ -208,5 +208,35 @@
     "running_watts": 35,
     "surge_watts": 60,
     "date": "2026-10-23"
+  },
+  {
+    "appliance_name": "Corded 15-Amp Circular Saw",
+    "slug": "corded-15-amp-circular-saw-wattage-runtime-calculator",
+    "title": "Corded 15-Amp Circular Saw Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (1800W), starting surge watts (3200W), and battery backup runtime for a Corded 15-Amp Circular Saw. Find the right LiFePO4 power station size.",
+    "category": "Jobsite Power Tools",
+    "running_watts": 1800,
+    "surge_watts": 3200,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "120V Tankless Gas Water Heater Igniter",
+    "slug": "120v-tankless-gas-water-heater-igniter-wattage-runtime-calculator",
+    "title": "120V Tankless Gas Water Heater Igniter Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (65W), starting surge watts (150W), and battery backup runtime for a 120V Tankless Gas Water Heater Igniter. Find the right LiFePO4 power station size.",
+    "category": "Home Plumbing Backup",
+    "running_watts": 65,
+    "surge_watts": 150,
+    "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "55-Inch 4K OLED Television & Soundbar",
+    "slug": "55-inch-4k-oled-television-soundbar-wattage-runtime-calculator",
+    "title": "55-Inch 4K OLED Television & Soundbar Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (160W), starting surge watts (220W), and battery backup runtime for a 55-Inch 4K OLED Television & Soundbar. Find the right LiFePO4 power station size.",
+    "category": "Home Entertainment",
+    "running_watts": 160,
+    "surge_watts": 220,
+    "date": "2026-10-24"
   }
 ]
