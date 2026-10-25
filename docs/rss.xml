@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Coffee Maker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Coffee Maker. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Window Ac Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/window-ac-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/window-ac-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Window Ac. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Microwave Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Microwave. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Slow Cooker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/1500w-portable-ceramic-space-heater-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/1500w-portable-ceramic-space-heater-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (1500W), starting surge watts (1500W), and battery backup runtime for a 1500W Portable Ceramic Space Heater. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>5000 BTU Window Air Conditioner Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/5000-btu-window-air-conditioner-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/5000-btu-window-air-conditioner-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (500W), starting surge watts (1500W), and battery backup runtime for a 5000 BTU Window Air Conditioner. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Starlink Standard Gen 3 Satellite Dish Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/starlink-standard-gen-3-satellite-dish-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/starlink-standard-gen-3-satellite-dish-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (75W), starting surge watts (110W), and battery backup runtime for a Starlink Standard Gen 3 Satellite Dish. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Full-Size 20 Cu Ft Kitchen Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/full-size-20-cu-ft-kitchen-refrigerator-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/full-size-20-cu-ft-kitchen-refrigerator-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (180W), starting surge watts (1200W), and battery backup runtime for a Full-Size 20 Cu Ft Kitchen Refrigerator. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

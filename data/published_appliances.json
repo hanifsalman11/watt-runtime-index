@@ -328,5 +328,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-24"
+  },
+  {
+    "appliance_name": "Microwave",
+    "slug": "microwave-wattage-runtime-calculator",
+    "title": "Microwave Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Microwave. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Window Ac",
+    "slug": "window-ac-wattage-runtime-calculator",
+    "title": "Window Ac Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Window Ac. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Coffee Maker",
+    "slug": "coffee-maker-wattage-runtime-calculator",
+    "title": "Coffee Maker Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Coffee Maker. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
   }
 ]
