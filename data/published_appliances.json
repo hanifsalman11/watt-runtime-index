@@ -418,5 +418,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Freezer",
+    "slug": "freezer-wattage-runtime-calculator",
+    "title": "Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Freezer. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Mini Fridge",
+    "slug": "mini-fridge-wattage-runtime-calculator",
+    "title": "Mini Fridge Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Fridge. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Full Size Refrigerator",
+    "slug": "full-size-refrigerator-wattage-runtime-calculator",
+    "title": "Full Size Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Full Size Refrigerator. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
   }
 ]

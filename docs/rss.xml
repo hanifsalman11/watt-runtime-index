@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Full Size Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/full-size-refrigerator-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/full-size-refrigerator-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Full Size Refrigerator. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Mini Fridge Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/mini-fridge-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/mini-fridge-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Fridge. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/freezer-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/freezer-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Freezer. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>1500 Sq Ft House Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/1500-sq-ft-house-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/1500-sq-ft-house-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/40-pint-basement-dehumidifier-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/40-pint-basement-dehumidifier-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (420W), starting surge watts (1100W), and battery backup runtime for a 40-pint Basement Dehumidifier. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Dual-Boiler Home Espresso Machine Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/dual-boiler-home-espresso-machine-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/dual-boiler-home-espresso-machine-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1400W), starting surge watts (1600W), and battery backup runtime for a Dual-Boiler Home Espresso Machine. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>RV 13500 BTU Rooftop Air Conditioner Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/rv-13500-btu-rooftop-air-conditioner-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/rv-13500-btu-rooftop-air-conditioner-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1350W), starting surge watts (3200W), and battery backup runtime for a RV 13500 BTU Rooftop Air Conditioner. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Portable Oxygen Concentrator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/portable-oxygen-concentrator-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-oxygen-concentrator-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (120W), starting surge watts (180W), and battery backup runtime for a Portable Oxygen Concentrator. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>
