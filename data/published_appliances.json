@@ -388,5 +388,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "House",
+    "slug": "house-wattage-runtime-calculator",
+    "title": "House Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a House. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Space Heater",
+    "slug": "space-heater-wattage-runtime-calculator",
+    "title": "Space Heater Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Space Heater. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "1500 Sq Ft House",
+    "slug": "1500-sq-ft-house-wattage-runtime-calculator",
+    "title": "1500 Sq Ft House Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a 1500 Sq Ft House. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
   }
 ]
