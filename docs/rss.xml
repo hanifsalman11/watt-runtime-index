@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Box Fan Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/box-fan-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/box-fan-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Box Fan. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Crock Pot Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/crock-pot-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/crock-pot-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Crock Pot. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Washing Machine Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/washing-machine-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/washing-machine-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Washing Machine. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Coffee Maker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/1000w-countertop-microwave-oven-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/1000w-countertop-microwave-oven-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (1200W), starting surge watts (1800W), and battery backup runtime for a 1000W Countertop Microwave Oven. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>1/3 HP Garage Door Opener Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/13-hp-garage-door-opener-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/13-hp-garage-door-opener-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (400W), starting surge watts (1100W), and battery backup runtime for a 1/3 HP Garage Door Opener. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Pellet Stove Auger & Blower Fan Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/pellet-stove-auger-blower-fan-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/pellet-stove-auger-blower-fan-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (130W), starting surge watts (520W), and battery backup runtime for a Pellet Stove Auger & Blower Fan. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>1500W Portable Ceramic Space Heater Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/1500w-portable-ceramic-space-heater-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/1500w-portable-ceramic-space-heater-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1500W), starting surge watts (1500W), and battery backup runtime for a 1500W Portable Ceramic Space Heater. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

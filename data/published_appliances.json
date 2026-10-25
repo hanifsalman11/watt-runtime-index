@@ -358,5 +358,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Washing Machine",
+    "slug": "washing-machine-wattage-runtime-calculator",
+    "title": "Washing Machine Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Washing Machine. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Crock Pot",
+    "slug": "crock-pot-wattage-runtime-calculator",
+    "title": "Crock Pot Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Crock Pot. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Box Fan",
+    "slug": "box-fan-wattage-runtime-calculator",
+    "title": "Box Fan Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Box Fan. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-25"
   }
 ]
