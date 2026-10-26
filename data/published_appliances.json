@@ -508,5 +508,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Starlink Mini",
+    "slug": "starlink-mini-wattage-runtime-calculator",
+    "title": "Starlink Mini Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Starlink Mini. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Mini Split",
+    "slug": "mini-split-wattage-runtime-calculator",
+    "title": "Mini Split Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Split. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Mini Refrigerator",
+    "slug": "mini-refrigerator-wattage-runtime-calculator",
+    "title": "Mini Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Refrigerator. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
   }
 ]

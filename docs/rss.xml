@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Mini Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/mini-refrigerator-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/mini-refrigerator-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Refrigerator. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Mini Split Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/mini-split-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/mini-split-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Mini Split. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Starlink Mini Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/starlink-mini-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/starlink-mini-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Starlink Mini. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Router And Modem Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/router-and-modem-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/router-and-modem-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/portable-evaporative-swamp-cooler-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-evaporative-swamp-cooler-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (220W), starting surge watts (650W), and battery backup runtime for a Portable Evaporative Swamp Cooler. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>55-Inch 4K OLED Television & Soundbar Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/55-inch-4k-oled-television-soundbar-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/55-inch-4k-oled-television-soundbar-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (160W), starting surge watts (220W), and battery backup runtime for a 55-Inch 4K OLED Television & Soundbar. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>120V Tankless Gas Water Heater Igniter Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/120v-tankless-gas-water-heater-igniter-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/120v-tankless-gas-water-heater-igniter-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (65W), starting surge watts (150W), and battery backup runtime for a 120V Tankless Gas Water Heater Igniter. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Corded 15-Amp Circular Saw Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/corded-15-amp-circular-saw-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/corded-15-amp-circular-saw-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1800W), starting surge watts (3200W), and battery backup runtime for a Corded 15-Amp Circular Saw. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>
