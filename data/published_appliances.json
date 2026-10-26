@@ -478,5 +478,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Furnace",
+    "slug": "furnace-wattage-runtime-calculator",
+    "title": "Furnace Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Furnace. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Existing Sump Pump",
+    "slug": "existing-sump-pump-wattage-runtime-calculator",
+    "title": "Existing Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Existing Sump Pump. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Router And Modem",
+    "slug": "router-and-modem-wattage-runtime-calculator",
+    "title": "Router And Modem Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Router And Modem. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
   }
 ]

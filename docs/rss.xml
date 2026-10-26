@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Router And Modem Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/router-and-modem-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/router-and-modem-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Router And Modem. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Existing Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/existing-sump-pump-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/existing-sump-pump-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Existing Sump Pump. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Furnace Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/furnace-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/furnace-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Furnace. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Home Power Outage Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/home-power-outage-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/home-power-outage-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/corded-15-amp-circular-saw-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/corded-15-amp-circular-saw-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (1800W), starting surge watts (3200W), and battery backup runtime for a Corded 15-Amp Circular Saw. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Home CPAP BiPAP Machine (No Heat) Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/home-cpap-bipap-machine-no-heat-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/home-cpap-bipap-machine-no-heat-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (35W), starting surge watts (60W), and battery backup runtime for a Home CPAP BiPAP Machine (No Heat). Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>75-Gallon Aquarium Heater & Canister Filter Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/75-gallon-aquarium-heater-canister-filter-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/75-gallon-aquarium-heater-canister-filter-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (260W), starting surge watts (310W), and battery backup runtime for a 75-Gallon Aquarium Heater & Canister Filter. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Electric Induction Cooktop Burner Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/electric-induction-cooktop-burner-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/electric-induction-cooktop-burner-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1800W), starting surge watts (1800W), and battery backup runtime for a Electric Induction Cooktop Burner. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>
