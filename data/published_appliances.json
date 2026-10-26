@@ -448,5 +448,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-25"
+  },
+  {
+    "appliance_name": "Home",
+    "slug": "home-wattage-runtime-calculator",
+    "title": "Home Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Home. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Computer",
+    "slug": "computer-wattage-runtime-calculator",
+    "title": "Computer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Computer. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Home Power Outage",
+    "slug": "home-power-outage-wattage-runtime-calculator",
+    "title": "Home Power Outage Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Home Power Outage. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-26"
   }
 ]
