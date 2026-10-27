@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Solar Panels Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/solar-panels-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/solar-panels-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Solar Panels. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Fridge Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/fridge-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/fridge-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Fridge. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Cpap Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/cpap-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/cpap-wattage-runtime-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (500W), starting surge watts (550W), and battery backup runtime for a Portable Baby Bottle Warmer & Sterilizer. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Home NAS Server & Wi-Fi 7 Mesh Router Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/home-nas-server-wi-fi-7-mesh-router-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/home-nas-server-wi-fi-7-mesh-router-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (55W), starting surge watts (95W), and battery backup runtime for a Home NAS Server & Wi-Fi 7 Mesh Router. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Commercial Food Truck Panini Press Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/commercial-food-truck-panini-press-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/commercial-food-truck-panini-press-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (1650W), starting surge watts (1650W), and battery backup runtime for a Commercial Food Truck Panini Press. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

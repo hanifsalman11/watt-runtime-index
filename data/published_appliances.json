@@ -568,5 +568,25 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-27"
+  },
+  {
+    "appliance_name": "Fridge",
+    "slug": "fridge-wattage-runtime-calculator",
+    "title": "Fridge Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Fridge. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-27"
+  },
+  {
+    "appliance_name": "Solar Panels",
+    "slug": "solar-panels-wattage-runtime-calculator",
+    "title": "Solar Panels Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Solar Panels. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-27"
   }
 ]
