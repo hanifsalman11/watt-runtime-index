@@ -538,5 +538,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-26"
+  },
+  {
+    "appliance_name": "Cpap Machine",
+    "slug": "cpap-machine-wattage-runtime-calculator",
+    "title": "Cpap Machine Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Cpap Machine. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-27"
+  },
+  {
+    "appliance_name": "Garage Door Opener",
+    "slug": "garage-door-opener-wattage-runtime-calculator",
+    "title": "Garage Door Opener Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Garage Door Opener. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-27"
+  },
+  {
+    "appliance_name": "Cpap",
+    "slug": "cpap-wattage-runtime-calculator",
+    "title": "Cpap Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Cpap. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-10-27"
   }
 ]

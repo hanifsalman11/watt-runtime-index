@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Cpap Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/cpap-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/cpap-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Cpap. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Garage Door Opener Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/garage-door-opener-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/garage-door-opener-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Garage Door Opener. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Cpap Machine Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/cpap-machine-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/cpap-machine-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Cpap Machine. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Mini Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/mini-refrigerator-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/mini-refrigerator-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/commercial-food-truck-panini-press-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/commercial-food-truck-panini-press-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (1650W), starting surge watts (1650W), and battery backup runtime for a Commercial Food Truck Panini Press. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>1/4 HP Sewage Ejector Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/14-hp-sewage-ejector-pump-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/14-hp-sewage-ejector-pump-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (650W), starting surge watts (1750W), and battery backup runtime for a 1/4 HP Sewage Ejector Pump. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Electric Blanket (Queen Size Dual Zone) Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/electric-blanket-queen-size-dual-zone-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/electric-blanket-queen-size-dual-zone-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (160W), starting surge watts (160W), and battery backup runtime for a Electric Blanket (Queen Size Dual Zone). Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Portable Evaporative Swamp Cooler Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/portable-evaporative-swamp-cooler-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-evaporative-swamp-cooler-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (220W), starting surge watts (650W), and battery backup runtime for a Portable Evaporative Swamp Cooler. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>
