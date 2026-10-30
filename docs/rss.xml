@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Well Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/well-pump-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/well-pump-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Well Pump. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Solar Panels Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/solar-panels-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/solar-panels-wattage-runtime-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Sump Pump. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Portable Baby Bottle Warmer & Sterilizer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/portable-baby-bottle-warmer-sterilizer-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (500W), starting surge watts (550W), and battery backup runtime for a Portable Baby Bottle Warmer & Sterilizer. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>
