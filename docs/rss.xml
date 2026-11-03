@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Ejector Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/ejector-pump-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/ejector-pump-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Ejector Pump. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Dryer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/dryer-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/dryer-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Dryer. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
+      <title>Deep Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/deep-freezer-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/deep-freezer-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Deep Freezer. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Well Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/well-pump-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/well-pump-wattage-runtime-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Microwave. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Slow Cooker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/slow-cooker-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Slow Cooker. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Refrigerator Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/refrigerator-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/refrigerator-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Refrigerator. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Sump Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/sump-pump-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Sump Pump. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

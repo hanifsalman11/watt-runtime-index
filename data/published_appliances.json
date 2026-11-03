@@ -598,5 +598,35 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-10-30"
+  },
+  {
+    "appliance_name": "Deep Freezer",
+    "slug": "deep-freezer-wattage-runtime-calculator",
+    "title": "Deep Freezer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Deep Freezer. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-03"
+  },
+  {
+    "appliance_name": "Dryer",
+    "slug": "dryer-wattage-runtime-calculator",
+    "title": "Dryer Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Dryer. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-03"
+  },
+  {
+    "appliance_name": "Ejector Pump",
+    "slug": "ejector-pump-wattage-runtime-calculator",
+    "title": "Ejector Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Ejector Pump. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-03"
   }
 ]
