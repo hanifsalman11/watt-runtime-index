@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Dehumidifier Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/dehumidifier-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/dehumidifier-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Dehumidifier. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Ejector Pump Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/ejector-pump-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/ejector-pump-wattage-runtime-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/window-ac-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/window-ac-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Window Ac. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Microwave Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/microwave-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Microwave. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

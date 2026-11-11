@@ -628,5 +628,15 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-11-03"
+  },
+  {
+    "appliance_name": "Dehumidifier",
+    "slug": "dehumidifier-wattage-runtime-calculator",
+    "title": "Dehumidifier Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Dehumidifier. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-11"
   }
 ]
