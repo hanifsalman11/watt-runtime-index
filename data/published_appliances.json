@@ -638,5 +638,15 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-11-11"
+  },
+  {
+    "appliance_name": "Power Outage",
+    "slug": "power-outage-wattage-runtime-calculator",
+    "title": "Power Outage Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Power Outage. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-15"
   }
 ]
