@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/watt-runtime-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Router Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
+      <link>https://hanifsalman11.github.io/watt-runtime-index/router-wattage-runtime-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/watt-runtime-index/router-wattage-runtime-calculator.html</guid>
+      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Router. Find the right LiFePO4 power station size.</description>
+    </item>
+    <item>
       <title>Power Outage Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
       <link>https://hanifsalman11.github.io/watt-runtime-index/power-outage-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/power-outage-wattage-runtime-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/watt-runtime-index/washing-machine-wattage-runtime-calculator.html</link>
       <guid>https://hanifsalman11.github.io/watt-runtime-index/washing-machine-wattage-runtime-calculator.html</guid>
       <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Washing Machine. Find the right LiFePO4 power station size.</description>
-    </item>
-    <item>
-      <title>Coffee Maker Wattage, Runtime Calculator & Solar Generator Sizing (2026)</title>
-      <link>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/watt-runtime-index/coffee-maker-wattage-runtime-calculator.html</guid>
-      <description>Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Coffee Maker. Find the right LiFePO4 power station size.</description>
     </item>
   </channel>
 </rss>

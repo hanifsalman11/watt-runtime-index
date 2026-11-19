@@ -648,5 +648,15 @@
     "running_watts": 350,
     "surge_watts": 900,
     "date": "2026-11-15"
+  },
+  {
+    "appliance_name": "Router",
+    "slug": "router-wattage-runtime-calculator",
+    "title": "Router Wattage, Runtime Calculator & Solar Generator Sizing (2026)",
+    "description": "Calculate exact running watts (350W), starting surge watts (900W), and battery backup runtime for a Router. Find the right LiFePO4 power station size.",
+    "category": "Home & Off-Grid Power",
+    "running_watts": 350,
+    "surge_watts": 900,
+    "date": "2026-11-19"
   }
 ]
